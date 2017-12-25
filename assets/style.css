@@ -1,0 +1,23 @@
+body {
+	background-color: #f4f4f4;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.btn-primary{
+	background-color: #6B959A;
+}
+
+.btn-primary:hover {
+	background-color: #354C48;
+}
+    button,
+    div,
+    form,
+    input {
+      margin: 10px;
+    }
+
+.gif-margin {
+    margin: 10px;
+}
